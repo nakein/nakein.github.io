@@ -125,9 +125,9 @@ footer{
 
 .footer-flex-item img{
 	flex-grow: 1;
-	margin: 20px 20px 0px 20px;
+	margin: 20px 10px 0px 10px;
 	padding: 20px 20px;
-	max-width: 100px;
+	max-width: 80px;
 }
 
 .footer-flex-item img:hover {
